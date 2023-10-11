@@ -1,6 +1,8 @@
 # ⏱ LARAVEL ADMIN THEME INSTALLATION AND CUSTOMIZATION
-# 📌 USING  OPEN SOURCE LIBRARY
-## WITH MYSQL RDBMS
+# ⏱ USING  OPEN SOURCE LIBRARY
+## ⏱ WITH MYSQL RDBMS
+youtube 
+https://youtu.be/7t0CE9f-LFM
 
 ![11](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/2f086251-d4b0-4dd8-8742-27ecf3169c60)
 ![6](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/34fbcdcf-eb28-44ee-934a-7bf9836591ed)
