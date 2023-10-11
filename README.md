@@ -1,3 +1,13 @@
+# ⏱ LARAVEL ADMIN THEME INSTALLATION
+## 📌 OPEN SOURCE LIBRARY
+![11](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/2f086251-d4b0-4dd8-8742-27ecf3169c60)
+![6](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/34fbcdcf-eb28-44ee-934a-7bf9836591ed)
+![4](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/f6b77a6c-f779-4640-82aa-d8752aa68a53)
+![15](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/4a3c2d4b-9673-4dce-a38b-089fb9a9c6cd)
+![7](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/c7da76af-a6ab-4355-9594-f1c7025cb94e)
+![8](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/d8a54432-af9c-44a6-b2ed-f36cfbb86760)
+![2](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/96328312-81b3-4738-ba69-51f268b73bb4)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
