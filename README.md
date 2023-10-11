@@ -1,5 +1,7 @@
-# ⏱ LARAVEL ADMIN THEME INSTALLATION
-## 📌 OPEN SOURCE LIBRARY
+# ⏱ LARAVEL ADMIN THEME INSTALLATION AND CUSTOMIZATION
+# 📌 USING  OPEN SOURCE LIBRARY
+## WITH MYSQL RDBMS
+
 ![11](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/2f086251-d4b0-4dd8-8742-27ecf3169c60)
 ![6](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/34fbcdcf-eb28-44ee-934a-7bf9836591ed)
 ![4](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/f6b77a6c-f779-4640-82aa-d8752aa68a53)
@@ -7,6 +9,8 @@
 ![7](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/c7da76af-a6ab-4355-9594-f1c7025cb94e)
 ![8](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/d8a54432-af9c-44a6-b2ed-f36cfbb86760)
 ![2](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/96328312-81b3-4738-ba69-51f268b73bb4)
+![10](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/7b3382fd-7179-4686-ae5e-49762f78e188)
+![12](https://github.com/shamiraty/Laravel-Open-Admin-Theme-Installation-and-customization/assets/129072179/f77e4182-6934-4ccf-8a27-c088d8b2d27a)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
